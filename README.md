@@ -8,5 +8,5 @@ android日志保存工具
   LogUtil.setDebuggable(true);
   LogUtil.setSaveToLocal(true);
 
-该工具使用类似Android系统的Log类，可输出不同日志级别：v、d、i、w、e。
+该工具使用方法类似Android系统的Log类，可输出不同日志级别：v、d、i、w、e。
   LogUtil.d("TAG", "msg");
